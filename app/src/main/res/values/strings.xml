@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ProyectoMenu</string>
+    <string name="textoInicio">Pulsa el boton para entrar</string>
+    <string name="button">Entrar</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_food">Comida</string>
+    <string name="title_activity_detail">Detalle</string>
+    <string name="description_restaurante">En este restaurante usted podra degustar de muchos aperitivos,
+        ya sean desayunos, almuerzo y algo para la cena. Disfrute de lo mejor que puede ofrecer la gastronomia peruana.
+    </string>
+    <string-array name="name">
+        <item>Desayunos</item>
+        <item>Almuerzo</item>
+        <item>Cena</item>
+    </string-array>
+
+    <string name="title_activity_menu_options">Restaurante</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">La dirrecion de corre es invalida</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este Campo es Requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

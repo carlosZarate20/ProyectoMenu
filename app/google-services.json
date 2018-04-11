@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "855695948497",
+    "project_id": "myapp-199916"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855695948497:android:88d0baabbfdc2c4d",
+        "android_client_info": {
+          "package_name": "com.example.carloszarate.proyectomenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855695948497-o1pa1rgulfjndjc9sm44ckagvns93828.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZfnTaRKOhjHRjMHkGrpDWKBB1hMMqGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-116791804-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855695948497:android:cfff4d880fdff6f6",
+        "android_client_info": {
+          "package_name": "com.myapp.analitycsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855695948497-o1pa1rgulfjndjc9sm44ckagvns93828.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZfnTaRKOhjHRjMHkGrpDWKBB1hMMqGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-116791804-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
