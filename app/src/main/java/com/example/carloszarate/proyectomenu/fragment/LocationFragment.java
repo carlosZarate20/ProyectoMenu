@@ -25,7 +25,8 @@ public class LocationFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.fragment_location,container,false);
+        return inflater.inflate(R.layout.fragment_location,container,false);
+        /*View rootView = inflater.inflate(R.layout.fragment_location,container,false);
         mapView = (MapView) rootView.findViewById(R.id.mapView);
         mapView.onCreate(savedInstanceState);
         mapView.onResume(); // obtener el mapa y mostrarlo inmediatamente
@@ -56,7 +57,7 @@ public class LocationFragment extends Fragment {
                 .target(new LatLng(17.385044, 78.486671)).zoom(12).build();
         googleMap.animateCamera(CameraUpdateFactory
                 .newCameraPosition(cameraPosition));
-        return rootView;
+        return rootView;*/
 
     }
 
